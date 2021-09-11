@@ -1,0 +1,3 @@
+[submodule "Sumodule-Reference-Project"]
+	path = Sumodule-Reference-Project
+	url = https://github.com/odinw/Sumodule-Reference-Project.git
